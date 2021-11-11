@@ -1,10 +1,8 @@
-var umaVariavel
-var outraVariavel
-var esseNomeMuitoMasMuitoGrande
+//camelCase
 
 //variable declarations
 
-var variavelRuim
+var variavelCapitalizada
 var variavelAdequada
 var variavelTitular
 

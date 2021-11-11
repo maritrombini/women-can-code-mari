@@ -1,3 +1,5 @@
+//Criando variáveis sem inicializá-las
+
 var meuNome
 console.log(meuNome)
 // O console exibe undefined uma vez que o valor não foi atribuído

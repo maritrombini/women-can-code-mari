@@ -1,3 +1,5 @@
+//Atribua o conteúdo de salarioBase à variavel salarioFuncionarioNovo
+
 var minhaVariavel
 minhaVariavel = 5
 var meuNumero

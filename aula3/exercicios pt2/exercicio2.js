@@ -1,9 +1,11 @@
+//Explorando atribuições compostas em operações matemáticas
+
 var saldo = 50
-var saldoComBonus = saldoFinal + 20
+var saldoComBonus = saldo + 20
 var saldoComDesconto = saldoComBonus / 0.5
 var saldoFinal = saldoComDesconto
 
-console.log(saldo)
-console.log(saldoComBonus)
-console.log(saldoComDesconto)
-console.log(saldoFinal)
+console.log(`Saldo = ${saldo}`)
+console.log(`Saldo com Bônus = ${saldoComBonus}`)
+console.log(`Saldo com Desconto = ${saldoComDesconto}`)
+console.log(`Saldo Final = ${saldoFinal}`)
