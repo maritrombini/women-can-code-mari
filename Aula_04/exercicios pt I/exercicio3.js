@@ -11,9 +11,9 @@ console.log(pedido['a entrada'])
 console.log(pedido['o drink'])
 
 // Apenas modifique dessa linha para baixo
-const valorEntrada = ['a entrada']
-const valorDrink = ['o drink']
+const valorEntrada = pedido['a entrada']
+const valorDrink = pedido['o drink']
 
 console.log('')
-console.log(pedido[valorEntrada])
-console.log(pedido[valorDrink])
+console.log(valorEntrada)
+console.log(valorDrink)
